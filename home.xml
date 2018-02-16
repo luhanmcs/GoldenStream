@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>FILMES</name>
+<thumbnail>http://i.imgur.com/KbKr2Pk.png</thumbnail>
+<externallink>ftp://goldenstream.ddns.net/GoldenStream/filmes.xml</externallink>
+<fanart>http://i.imgur.com/jwr1Q7P.jpg</fanart>
+<info>Teste Info 123456</info>
+</channel>
+</channels>
